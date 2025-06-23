@@ -54,6 +54,7 @@ greenlet==3.2.2
 groq==0.17.0
 grpcio==1.71.0
 grpcio-status==1.71.0
+gunicorn==21.2.0
 h11==0.14.0
 h2==4.2.0
 hpack==4.1.0
