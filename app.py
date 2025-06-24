@@ -241,6 +241,3 @@ def get_conversational_answer(
         config={"configurable": {"session_id": session_id}}
     )
     return response["answer"]
-
-if __name__ == "__main__":
-    app.run(host='0.0.0.0',debug=True)
